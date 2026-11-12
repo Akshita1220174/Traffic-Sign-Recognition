@@ -133,17 +133,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 🙋 Author
 
 Feel free to reach out if you have questions or suggestions for improving this project!
-
-## Student Submission
-
-Name: Akshita Goel
-UID: 25MDA10107
-Course: MBA Data Science and AI
-
-## Project Overview
-
-This project focuses on traffic sign classification
-using a Convolutional Neural Network (CNN).
-
-Original source:
-https://github.com/CMSMalshan/Traffic-Sign-Recognition
